@@ -1,4 +1,5 @@
 # Welcome 👋
-## [redrubyit.co.za](http://redrubyit.co.za)
+### [RedRubyIT.co.za](http://redrubyit.co.za)
 
-## [About](./About.md)
+#### Table of Contents
+* [About Us](./About.md)
