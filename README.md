@@ -1,4 +1,4 @@
-Visit us at [http://redrubyit.co.za]
+Visit us at [Home Page](http://redrubyit.co.za)
 
 ## About
 #### Who Are We
