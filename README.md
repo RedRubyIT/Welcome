@@ -9,3 +9,12 @@ Red Ruby IT is a proudly South African Software Development company, based in Jo
 
 #### Our Mission
 To create exceptional value for our clients so that they can be successful with their businesses and ideas.
+
+#### Our Team
+We have a qualified team of professionals that are experts in their field.
+
+* Software Developers
+* Problem Solvers
+* Marketing Analysts
+* Online Marketing Specialists
+* Project Managers
